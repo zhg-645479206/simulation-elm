@@ -2,11 +2,11 @@
 vue练手项目，模仿https://github.com/bailicangdu/vue2-elm
 
 
-> 构建项目文件架构
+> 构建项目文件夹结构
 
 > npm init
 
-> 补充 package.json
+> 构建 package.json
 
   相关文章
 
