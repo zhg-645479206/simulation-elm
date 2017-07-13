@@ -1,5 +1,5 @@
 # simulation-elm
-vue练手项目，模仿https://github.com/bailicangdu/vue2-elm
+vue，https://github.com/bailicangdu/vue2-elm
 
 
 > 构建项目文件夹结构
